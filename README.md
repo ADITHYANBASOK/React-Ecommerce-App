@@ -33,4 +33,14 @@ A simple e-commerce web application built with **React**, **React Router**, and 
 
 2. Navigate to the project directory:
 
+  cd ecommerce-app
+
+3. Install dependencies:
+
+  npm install
+
+4. Start the development server:
+
+  npm run dev
+
   
