@@ -8,7 +8,7 @@ export default {
     extend: {},
   },
   plugins: [
-    require('@tailwindcss/aspect-ratio'),
-    require('@tailwindcss/line-clamp'),
+    ('@tailwindcss/aspect-ratio'),
+    ('@tailwindcss/line-clamp'),
   ],
 }
